@@ -921,7 +921,7 @@ var SN_CSM_EC = (function () {
       "</div>" +
       '<iframe id="em_iframe" title="Messenger" class="" tabindex="0" frameborder="0" src=' +
       TEMPLATE_SRC +
-      ' allow="geolocation "self" https://dev243378.service-now.com"></iframe>' +
+      ' allow="geolocation"></iframe>' +
       '<button id="ecLauncherFloatingBubble">' +
       '<img class="ecEmbedWidgetlauncher hidden" src=' +
       IFRAME_LAUNCHER_ICON_SRC +
