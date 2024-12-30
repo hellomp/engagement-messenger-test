@@ -1,0 +1,2 @@
+/*
+Permissions-Policy: geolocation=(self "https://dev243378.service-now.com")
